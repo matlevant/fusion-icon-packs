@@ -1,0 +1,46 @@
+[
+  {
+    "name": "IMDb (IM)",
+    "url": "https://raw.githubusercontent.com/matlevant/fusion-starter-kit/refs/heads/main/icons/rounded/imdb.png"
+  },
+  {
+    "name": "Rotten Tomatoes Tomatometer (RT)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Rotten_Tomatoes.svg/250px-Rotten_Tomatoes.svg.png"
+  },
+  {
+    "name": "Metacritic (MC)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Metacritic_M.png"
+  },
+  {
+    "name": "Letterboxd (LB)",
+    "url": "https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb-500px.png"
+  },
+  {
+    "name": "Rotten Tomatoes Popcornmeter (PC)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rotten_Tomatoes_positive_audience.svg/250px-Rotten_Tomatoes_positive_audience.svg.png"
+  },
+  {
+    "name": "TMDb (TM)",
+    "url": "https://raw.githubusercontent.com/matlevant/fusion-starter-kit/refs/heads/main/icons/rounded/tmdb.png"
+  },
+  {
+    "name": "Trakt (TR)",
+    "url": "https://raw.githubusercontent.com/matlevant/fusion-starter-kit/refs/heads/main/icons/rounded/trakt.png"
+  },
+  {
+    "name": "Anilist (AN)",
+    "url": "https://raw.githubusercontent.com/matlevant/fusion-starter-kit/refs/heads/main/icons/rounded/anilist.png"
+  },
+  {
+    "name": "MyAnimeList (MAL)",
+    "url": "https://raw.githubusercontent.com/matlevant/fusion-starter-kit/refs/heads/main/icons/rounded/mal.png"
+  },
+  {
+    "name": "Kitsu (KS)",
+    "url": "https://raw.githubusercontent.com/matlevant/fusion-starter-kit/refs/heads/main/icons/rounded/kitsu.png"
+  },
+  {
+    "name": "RogerEbert (RE)",
+    "url": "https://raw.githubusercontent.com/matlevant/fusion-icon-packs/refs/heads/main/icons/rounded/RogerEbert.png"
+  }
+]
